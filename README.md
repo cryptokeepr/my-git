@@ -1,4 +1,4 @@
-# my-git
+# My-git
 
 ## Here creating a first Repo
 
